@@ -1,4 +1,4 @@
-### Text2Sign
+# Text2Sign
 
 ## About
 
